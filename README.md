@@ -1,4 +1,4 @@
-### Semantic Job Matcher
+## Semantic Job Matcher
 
 Paste a resume and get the most relevant jobs, ranked by meaning rather than keyword overlap.
 
