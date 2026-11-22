@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "title": "LLM Engineer",
+    "company": "Northwind AI",
+    "description": "Build LLM-powered agents that call tools and keep conversation memory. Design prompts, structured outputs and evaluation harnesses for production use.",
+    "skills": [
+      "Python",
+      "LLMs",
+      "Prompt Engineering",
+      "Tool Use",
+      "FastAPI"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer (Python)",
+    "company": "Lumen Labs",
+    "description": "Ship reliable REST APIs and background workers. Own PostgreSQL schema design, query tuning and on-call reliability for a high-traffic product.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "REST"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Search & Relevance Engineer",
+    "company": "Quill Jobs",
+    "description": "Develop semantic search and ranking over a large, constantly changing index. Work with embeddings, vector databases and relevance evaluation.",
+    "skills": [
+      "Embeddings",
+      "Vector Search",
+      "Ranking",
+      "Python",
+      "Elasticsearch"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Machine Learning Engineer",
+    "company": "Orbit Analytics",
+    "description": "Train, evaluate and deploy classification and recommendation models. Build feature pipelines and track experiments with MLflow.",
+    "skills": [
+      "scikit-learn",
+      "MLflow",
+      "Python",
+      "Feature Engineering",
+      "Docker"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Data Analyst",
+    "company": "Kestrel Retail",
+    "description": "Build Grafana and Tableau dashboards for sales KPIs. Write advanced SQL with CTEs and window functions to find revenue trends.",
+    "skills": [
+      "SQL",
+      "Grafana",
+      "PostgreSQL",
+      "KPI Reporting",
+      "Excel"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Data Engineer",
+    "company": "Basalt Systems",
+    "description": "Design ETL pipelines and warehouse models, including slowly changing dimensions. Orchestrate jobs with Airflow and keep data quality high.",
+    "skills": [
+      "SQL",
+      "ETL",
+      "Airflow",
+      "Data Modeling",
+      "Python"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Frontend Engineer (React)",
+    "company": "Pixel Harbor",
+    "description": "Build responsive React interfaces with TypeScript. Focus on accessibility, performance and design-system components.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "CSS",
+      "Accessibility",
+      "Jest"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "DevOps Engineer",
+    "company": "Cloudwick Infra",
+    "description": "Automate deployments with CI/CD, Docker and Kubernetes. Manage cloud infrastructure on AWS with Terraform and monitor with Prometheus.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Java Backend Developer",
+    "company": "Meridian Pay",
+    "description": "Develop Spring Boot microservices for payments. Work with Kafka, PostgreSQL and strong testing practices.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "Microservices",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "NLP Research Engineer",
+    "company": "Verse Labs",
+    "description": "Fine-tune transformer models for text classification and information extraction. Run evaluations and write up results.",
+    "skills": [
+      "PyTorch",
+      "Transformers",
+      "NLP",
+      "Evaluation",
+      "Python"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "AI Product Analyst",
+    "company": "Helix Health",
+    "description": "Define metrics for AI features, analyse user behaviour with SQL and partner with product managers to prioritise the roadmap.",
+    "skills": [
+      "SQL",
+      "Product Analytics",
+      "A/B Testing",
+      "Metrics",
+      "Communication"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "RAG Application Developer",
+    "company": "Docuverse",
+    "description": "Build retrieval-augmented generation pipelines over enterprise documents. Chunking, embeddings, reranking and LLM answer evaluation.",
+    "skills": [
+      "RAG",
+      "LangChain",
+      "Vector DB",
+      "Python",
+      "LLM Evals"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Recommender Systems Engineer",
+    "company": "Streamly",
+    "description": "Build and iterate on recommendation models using collaborative filtering and embeddings. Run online experiments to measure impact.",
+    "skills": [
+      "Recommender Systems",
+      "Python",
+      "Embeddings",
+      "A/B Testing",
+      "SQL"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Full Stack Developer (MERN)",
+    "company": "Brightpath",
+    "description": "Build end-to-end web features with MongoDB, Express, React and Node. Own features from database to UI.",
+    "skills": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Computer Vision Engineer",
+    "company": "Sightline",
+    "description": "Train and deploy object detection models for industrial inspection. Optimise inference for edge devices.",
+    "skills": [
+      "PyTorch",
+      "OpenCV",
+      "Computer Vision",
+      "Python",
+      "ONNX"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Business Intelligence Developer",
+    "company": "Tallyfield",
+    "description": "Model data for reporting, build executive dashboards and automate scheduled reports from SQL Server and PostgreSQL.",
+    "skills": [
+      "SQL Server",
+      "Power BI",
+      "Data Modeling",
+      "Dashboards",
+      "ETL"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Site Reliability Engineer",
+    "company": "Ironclad Cloud",
+    "description": "Keep production systems reliable. Define SLOs, build alerting, run incident reviews and automate toil.",
+    "skills": [
+      "Linux",
+      "Monitoring",
+      "Alerting",
+      "Python",
+      "Incident Response"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Mobile Developer (Android)",
+    "company": "Pocketwise",
+    "description": "Build Android apps in Kotlin with Jetpack Compose. Handle offline sync, push notifications and release pipelines.",
+    "skills": [
+      "Kotlin",
+      "Android",
+      "Jetpack Compose",
+      "REST",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Automation QA Engineer",
+    "company": "Testbridge",
+    "description": "Design API and end-to-end test frameworks. Use Postman and Python to automate regression and integration tests.",
+    "skills": [
+      "Test Automation",
+      "Postman",
+      "Python",
+      "API Testing",
+      "CI/CD"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "AI Agents Engineer",
+    "company": "Agentic Works",
+    "description": "Create multi-step agents with planning, tool calling and memory. Evaluate agent reliability and reduce failure rates in production.",
+    "skills": [
+      "LangGraph",
+      "Tool Calling",
+      "Python",
+      "LLMs",
+      "Evaluation"
+    ]
+  }
+]
