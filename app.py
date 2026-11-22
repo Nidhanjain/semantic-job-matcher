@@ -114,12 +114,14 @@ st.set_page_config(page_title="Job Matcher", page_icon="🎯")
 st.title("Semantic Job Matcher")
 st.caption("Paste a resume. Jobs are ranked by meaning (embeddings + cosine similarity), not keywords.")
 
-api_key = st.sidebar.text_input(
+SERVER_KEY = os.getenv("GEMINI_API_KEY", "")  # from Streamlit secrets, never shown in the UI
+
+user_key = st.sidebar.text_input(
     "Gemini API key (optional)",
     type="password",
-    value=os.getenv("GEMINI_API_KEY", ""),
-    help="Only used for the 'why this match' explanations. Search itself is fully local.",
+    help="Optional. Only used for the 'why this match' explanations. Search itself is fully local.",
 )
+api_key = user_key or SERVER_KEY
 
 resume = st.text_area("Resume text", height=240, placeholder="Paste your resume here...")
 
