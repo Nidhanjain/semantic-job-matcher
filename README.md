@@ -1,4 +1,4 @@
-###Semantic Job Matcher
+### Semantic Job Matcher
 
 Paste a resume and get the most relevant jobs, ranked by meaning rather than keyword overlap.
 
@@ -17,7 +17,7 @@ streamlit run app.py
 
 Optional: set GEMINI_API_KEY in your environment, or paste the key into the sidebar.
 
-Ideas to extend :- 
+## Ideas to extend :- 
 
 Add a reranking step and compare ranking quality before/after
 
